@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git@github.com:Sitebase/piko.git"
   },
-  "author": "",
+  "author": "Sitebase (Wim Mostmans)",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^0.18.0",
