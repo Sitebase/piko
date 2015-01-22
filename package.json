@@ -14,6 +14,11 @@
     "url": "git@github.com:Sitebase/piko.git"
   },
   "author": "Sitebase (Wim Mostmans)",
+  "keywords": [
+    "kostal",
+    "piko",
+    "pvr"
+  ],
   "license": "ISC",
   "dependencies": {
     "cheerio": "^0.18.0",
