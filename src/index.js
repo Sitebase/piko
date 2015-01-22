@@ -3,7 +3,7 @@
  *
  * Copyright (c) 2014 Sitebase (Wim Mostmans) and project contributors.
  *
- * piko-node's license follows:
+ * piko's license follows:
  *
  * Permission is hereby granted, free of charge, to any person
  * obtaining a copy of this software and associated documentation
@@ -23,7 +23,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  * 
- * This license applies to all parts of piko-node that are not externally
+ * This license applies to all parts of piko that are not externally
  * maintained libraries.
  */
 var cheerio = require('cheerio'),

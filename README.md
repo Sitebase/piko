@@ -2,8 +2,12 @@ Piko Inverter [![Build Status](https://travis-ci.org/Sitebase/piko.svg?branch=ma
 =============
 A NodeJS package that makes it possible to fetch information from a Piko Inverter from Kostal.
 
-Basic usage
------------
+Tested on
+---------
+* Piko 5.5
+
+Usage
+-----
 
 	var Piko = require('piko');
 	var pv = new Piko({ host: 'http://piko.lan' });
