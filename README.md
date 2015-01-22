@@ -1,4 +1,4 @@
-Piko Inverter [![Travis CI](https://travis-ci.org/Sitebase/piko.svg)]
+Piko Inverter [![Build Status](https://travis-ci.org/Sitebase/piko.svg?branch=master)](https://travis-ci.org/Sitebase/piko)
 =============
 A NodeJS package that makes it possible to fetch information from a Piko Inverter from Kostal.
 
