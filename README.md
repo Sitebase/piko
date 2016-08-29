@@ -10,7 +10,11 @@ Usage
 -----
 
 	var Piko = require('piko');
-	var pv = new Piko({ host: 'http://piko.lan' });
+	var pv = new Piko({
+        host: 'http://piko.lan',
+		username: 'pvserver',
+		password: 'pvwr'
+    });
 	pv.fetch(function( result ) {
 		console.log(result);
 	});
